@@ -1,0 +1,3 @@
+2023-07-23 22:07:284 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on windows (d49172a22066f164db9858c29f81a689)] -> link text: Log in]
+2023-07-23 22:07:376 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on windows (d49172a22066f164db9858c29f81a689)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-07-23 22:07:02 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on windows (13341e45080da85a561eafc1c0bce83a)] -> link text: Log in]
